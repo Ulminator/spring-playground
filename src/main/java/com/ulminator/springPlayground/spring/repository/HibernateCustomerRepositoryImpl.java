@@ -1,10 +1,12 @@
-package com.ulminator.springPlayground.repository;
+package com.ulminator.springPlayground.spring.repository;
 
-import com.ulminator.springPlayground.model.Customer;
+import com.ulminator.springPlayground.spring.model.Customer;
+import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;
 import java.util.List;
 
+//@Repository("customerRepository")
 public class HibernateCustomerRepositoryImpl implements CustomerRepository {
 
     @Override

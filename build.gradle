@@ -8,7 +8,8 @@ group = 'com.ulminator'
 version = '1.0-SNAPSHOT'
 sourceCompatibility = 1.8
 
-mainClassName = 'com.ulminator.springPlayground.Application'
+//mainClassName = 'com.ulminator.springPlayground.nonSpring.Application'
+mainClassName = 'com.ulminator.springPlayground.spring.Application'
 
 repositories {
     mavenCentral()

@@ -1,4 +1,4 @@
-package com.ulminator.springPlayground.model;
+package com.ulminator.springPlayground.nonSpring.model;
 
 public class Customer {
 

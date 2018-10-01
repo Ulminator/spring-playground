@@ -1,8 +1,8 @@
-package com.ulminator.springPlayground.service;
+package com.ulminator.springPlayground.nonSpring.service;
 
-import com.ulminator.springPlayground.model.Customer;
-import com.ulminator.springPlayground.repository.CustomerRepository;
-import com.ulminator.springPlayground.repository.HibernateCustomerRepositoryImpl;
+import com.ulminator.springPlayground.nonSpring.model.Customer;
+import com.ulminator.springPlayground.nonSpring.repository.CustomerRepository;
+import com.ulminator.springPlayground.nonSpring.repository.HibernateCustomerRepositoryImpl;
 
 import java.util.List;
 
